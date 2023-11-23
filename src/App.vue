@@ -1,11 +1,11 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <AppHeader />
     </v-main>
   </v-app>
 </template>
 
 <script setup lang="ts">
-import HelloWorld from '@/components/HelloWorld.vue'
+import AppHeader from '@/components/AppHeader.vue'
 </script>
